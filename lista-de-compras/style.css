@@ -1,0 +1,15 @@
+h1 {
+    margin: 5px;
+    padding: 10px;
+    width: 250px;
+    background-color: blueviolet;
+    color: aliceblue;  
+}
+
+.total{
+    margin: 0px 5px;
+    padding: 10px 3px;
+    width: 265px;
+    background-color: khaki;
+    color: brown;
+}
